@@ -1,6 +1,6 @@
 # Assignment for Frontend Developers
 
-This is a frontend developer assignment for applicants to Linktera development team. When completing this assignment you are allowed to use the newest HTML and CSS standards and any JS framework that can be used to implement the requirements list.
+This is a frontend developer assignment for applicants to Linktera development team. When completing this assignment, you are allowed to use the newest HTML and CSS standards and any JS framework that can be used to implement the related item in the To-Do list.
 
 ### Prerequisites
 
@@ -12,10 +12,17 @@ This is a frontend developer assignment for applicants to Linktera development t
 
 1. Fork this repository. 
 1. Create a feature branch with your name. 
-1. **Design Implementation Part:** Reproduce what you see on the image dashboard.png as HTML and CSS. Please don't worry about pixel perfect implementation, more than 80% similarity is OK. Submitting a running code is more critical. 
-1. **Development Part:** Use json files to bring page data. You may use React or Angular or VueJs or any JS/Frontend framework that you want to use for this assignment. 
+1. **Design Implementation Part:** Reproduce what you see on the image dashboard.png as HTML and CSS. 
+    1. Please don't worry about pixel perfect implementation, more than 80% similarity is OK. 
+    1. Submitting a running code is more critical. 
+    1. All the required source files can be found in assets.zip file. 
+1. **Development Part:** Use json files to bring page data. 
+    1. You may use React, Angular, VueJs or any JS / Frontend framework that you want to use for this assignment. 
+    1. The content json files are in data directory. 
 1. Push your branch to your repository. 
 1. Inform us via email with a link to your branch on Github. 
+
+**Bonus Item:** Implementing a new page that contains a data table for work_logs.json with suitable filters. For this item, the limit is your imagination. 
 
 ### We care about
 
