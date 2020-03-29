@@ -1,6 +1,6 @@
 # Assignment for Frontend Developers
 
-This is a frontend developer assignment for applicants to Linktera development team. When completing this assignment, you are allowed to use the newest HTML and CSS standards and any JS framework that can be used to implement the related item in the To-Do list.
+This is a frontend developer assignment for applicants to Linktera development team. When completing this assignment, you are allowed to use the newest HTML and CSS standards and any JS or Frontend framework that can be used to implement the related item in the To-Do list.
 
 ### Prerequisites
 
@@ -19,7 +19,7 @@ This is a frontend developer assignment for applicants to Linktera development t
 1. **Development Part:** Use json files to bring page data. 
     1. You may use React, Angular, VueJs or any JS / Frontend framework that you want to use for this assignment. 
     1. The content json files are in data directory. 
-1. Push your branch to your repository. 
+1. Push your branch to your repository. (ZIP file submission via mail is also valid.)
 1. Inform us via email with a link to your branch on Github. 
 
 **Bonus Item:** Implementing a new page that contains a data table for work_logs.json with suitable filters. For this item, the limit is your imagination. 
