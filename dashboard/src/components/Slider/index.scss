@@ -1,0 +1,22 @@
+.splide__arrow--next {
+  width: auto;
+  right: 0px;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: transparent;
+  font-size: 32px;
+}
+.splide__arrow--prev {
+  width: auto;
+  left: 0px;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: transparent;
+  font-size: 32px;
+}
+.splide {
+  margin-bottom: 10px;
+  &__pagination {
+    bottom: 27px;
+  }
+}

@@ -1,0 +1,19 @@
+.quit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    padding-left: 44px;
+    padding-right: 90px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgba($color: #e6f4f4, $alpha: 0.2);
+    p{
+        font-size: 16px;
+        font-weight: 300;
+    }
+    img{
+        margin-left: 10px;
+    }
+
+}

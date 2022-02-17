@@ -1,0 +1,34 @@
+.user {
+  display: flex;
+  align-items: center;
+  color: #b5b5b7;
+  line-height: 1;
+  margin-bottom: 30px;
+  &-info {
+    &__name {
+      margin-top: 0;
+      margin-bottom: 5px;
+    }
+    &__email {
+      font-size: 8px;
+      font-weight: 300;
+      margin-bottom: 8px;
+    }
+  }
+  &__image {
+    margin-right: 8px;
+    transform: translateY(-4px);
+  }
+  &__button {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #b5b5b7;
+    white-space: nowrap;
+    font-size: 8px;
+    img {
+      transform: translateY(-2px);
+      margin-left: 10px;
+    }
+  }
+}
